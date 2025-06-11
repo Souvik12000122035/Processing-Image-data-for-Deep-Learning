@@ -3,20 +3,28 @@ This project demonstrates fundamental image processing techniques to prepare and
 
 These operations are essential for tasks like image classification, object detection, and neural network input preparation, where clean and standardized image inputs greatly enhance model accuracy and efficiency.
 
-🧰 Technologies Used
-Python
-OpenCV
-Pillow (PIL)
-Matplotlib
+🧰 Technologies Used - 
+Python,
+OpenCV,
+Pillow (PIL),
+Matplotlib,
 NumPy
 
-🔍 Key Features
-Downloading images from the web using wget
-Reading and displaying images with Matplotlib
-Resizing images using Pillow
-Grayscale conversion using OpenCV
-Sketch (pencil drawing) effect
-Sepia and cartoon-style filters
-Image inversion (negative)
-Saving processed images
+🔍 Key Features -
+
+1. Downloading images from the web using wget
+
+2. Reading and displaying images with Matplotlib
+
+3. Resizing images using Pillow
+
+4. Grayscale conversion using OpenCV
+
+5. Sketch (pencil drawing) effect
+
+6. Sepia and cartoon-style filters
+
+7. Image inversion (negative)
+
+8. Saving processed images
 
